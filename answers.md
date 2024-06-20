@@ -46,7 +46,7 @@ After set up and some tests, I was able to run it and even create a databade wit
 ![running my sql on cmd](<images\Command Prompt - mysql  -u root -p 6_20_2024 3_40_18 AM.png>)
 
 CHALLENGES FACED DURING SET UP.
-1. Unfamiliarity with the tools and development software resulted in much time taken on doing the set up. I was completed all the installation as it was required at the end.
+1. Unfamiliarity with the tools and development software resulted in much time taken on doing the set up. I completed all the installation as it was required at the end.
 thank you, 
 
 name: MICHAEL GONA KATANA
