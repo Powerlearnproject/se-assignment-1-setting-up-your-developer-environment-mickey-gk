@@ -35,15 +35,15 @@ As i was going to use python as my basic programming language for my software en
 I added its path to my global user environmnmental variable in order for it to run in my commnad lines.
 After installing python, I installed its package manager with pip.
 # link to images below.
-![donwloading python](<images\Welcome to Python.org and 3 more pages - Personal - Microsoft​ Edge 6_20_2024 3_26_40 AM.png>)
-![configuring python path/env](<images\Edit environment variable 6_20_2024 3_22_57 AM.png>)
+![donwloading python](<images/Welcome to Python.org and 3 more pages - Personal - Microsoft​ Edge 6_20_2024 3_26_40 AM.png>)
+![configuring python path/env](<images/Edit environment variable 6_20_2024 3_22_57 AM.png>)
 
 
 DOWNLOADING AND INSTALLING MYSQL.
 I installed my sql databade manager from the following site: https://dev.mysql.com/downloads/windows/installer/5.7.html
 After set up and some tests, I was able to run it and even create a databade with it.
 # image links.
-![running my sql on cmd](<images\Command Prompt - mysql  -u root -p 6_20_2024 3_40_18 AM.png>)
+![running my sql on cmd](<images/Command Prompt - mysql  -u root -p 6_20_2024 3_40_18 AM.png>)
 
 CHALLENGES FACED DURING SET UP.
 1. Unfamiliarity with the tools and development software resulted in much time taken on doing the set up. I completed all the installation as it was required at the end.
