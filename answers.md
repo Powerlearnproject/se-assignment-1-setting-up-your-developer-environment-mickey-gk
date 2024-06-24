@@ -15,8 +15,8 @@ The IDE I chose for my software programmming work was Visual Studio Code(user ed
     3. after the download is done, run the file by clicking on it to inititate the package installation.
     4. by default, visual studio will install in "C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin\code" path.
 # images are as below:
-![downloading vs code](<images\Download Visual Studio Code - Mac, Linux, Windows and 1 more page - Personal - Microsoft​ Edge 6_20_2024 2_29_49 AM.png>)
-![downloading vs code](<images\Free Download Manager 6_20_2024 2_30_26 AM.png>)
+![downloading vs code](<images/Download Visual Studio Code - Mac, Linux, Windows and 1 more page - Personal - Microsoft​ Edge 6_20_2024 2_29_49 AM.png>)
+![downloading vs code](<images/Free Download Manager 6_20_2024 2_30_26 AM.png>)
 
 
 INSTALLING VERSION CONTROL (GIT)  and Github
@@ -24,10 +24,10 @@ I used git as my version control tool. To install git, I downloaded it from this
 I tested if its working correct by running the git bash, gui and cmd.
 The link to my git hub account for repository and assignment submission is as follows: https://github.com/mickey-gk 
 # git and github account images.
-![downloading git](<images\Git - Downloads and 3 more pages - Personal - Microsoft​ Edge 6_20_2024 2_53_04 AM.png>)
-![downloading git](<images\Git - Downloads and 3 more pages - Personal - Microsoft​ Edge 6_20_2024 2_53_31 AM.png>)
-![checking git](<images\MINGW64__c_Users_PC 6_20_2024 3_02_44 AM.png>)
-![creating a git hub account](<images\New split screen and 5 more pages - Personal - Microsoft​ Edge 6_20_2024 3_16_42 AM.png>)
+![downloading git](<images/Git - Downloads and 3 more pages - Personal - Microsoft​ Edge 6_20_2024 2_53_04 AM.png>)
+![downloading git](<images/Git - Downloads and 3 more pages - Personal - Microsoft​ Edge 6_20_2024 2_53_31 AM.png>)
+![checking git](<images/MINGW64__c_Users_PC 6_20_2024 3_02_44 AM.png>)
+![creating a git hub account](<images/New split screen and 5 more pages - Personal - Microsoft​ Edge 6_20_2024 3_16_42 AM.png>)
 
 
 INSTALLING PROGRAMMING LANGUAGE AND RUNTIMES.
